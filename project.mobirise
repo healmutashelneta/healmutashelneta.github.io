@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "היעלמותה של נטע",
-    "currentPage": "טקסטים.html",
+    "currentPage": "בקרוב.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 84,
-    "versionPublish": "5.0.8",
+    "versionPublish": "4.12.3",
     "imageResize": true,
     "favicon": false,
     "robotsSwitcher": false,
@@ -999,7 +999,7 @@
             "bgColorRadio": false,
             "bgColor": "#fafafa",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1920.png",
             "overlay": true,
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
