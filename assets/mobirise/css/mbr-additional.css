@@ -2812,15 +2812,22 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-rZ8CkrFsZb {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
 }
 .cid-rZ8CkrFsZb P {
   color: #767676;
 }
+.cid-rZ8CkrFsZb H1 {
+  color: #232323;
+}
+.cid-rZ8CkrFsZb .mbr-text,
+.cid-rZ8CkrFsZb .mbr-section-btn {
+  color: #232323;
+}
 .cid-rZ8CBPB73L {
-  background: #ffffff;
+  background: #efefef;
   padding-top: 60px;
   padding-bottom: 60px;
 }
