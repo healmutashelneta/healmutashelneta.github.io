@@ -1102,6 +1102,13 @@ section.lazy-placeholder:after {
 .cid-qTkA127IK8 {
   background-image: url("../../../assets/images/mbr-1920x1280.png");
 }
+.cid-qTkA127IK8 H1 {
+  color: #000000;
+}
+.cid-qTkA127IK8 .mbr-text,
+.cid-qTkA127IK8 .mbr-section-btn {
+  color: #000000;
+}
 .cid-rZ8yoBJOhU {
   padding-top: 90px;
   padding-bottom: 90px;
